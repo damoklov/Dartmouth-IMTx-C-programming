@@ -1,0 +1,4 @@
+/bin/ls
+/sys/devices/virtual/block/loop0
+zcip
+cd ../../sys

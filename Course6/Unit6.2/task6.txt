@@ -1,0 +1,11 @@
+5
+4
+/usr
+stdio.h
+7
+tmpfs
+9p
+4
+6
+mv ../miscellaneous ../other
+rm -r /home/user/music

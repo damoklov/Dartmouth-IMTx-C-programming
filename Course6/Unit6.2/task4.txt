@@ -1,0 +1,3 @@
+rm -ri /home/user/my\ folder
+yes | rm -ri /bin
+mkdir -p D1/D2/D3
